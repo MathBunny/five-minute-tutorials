@@ -1,4 +1,9 @@
-# Learn in 5 Minutes YouTube Series 
+# Learn in 5 Minutes YouTube Series
+
+### Archive Notice
+_Please visit the new repository location for updates: [here](https://github.com/SoftwareEngenius/five-minute-tutorials)_
+
+---
 
 ## Introduction & Objective
 **Learn in 5 Minutes** is a YouTube series consisting of two tracks: algorithms and software engineering. 
